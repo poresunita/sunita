@@ -1,2 +1,3 @@
 Hello Git
 Todays date is 10 feb
+git 3gd lecture 10
